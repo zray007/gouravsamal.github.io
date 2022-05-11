@@ -8,7 +8,7 @@ const { colors, fontSizes, fonts } = theme;
 
 const StyledContainer = styled(Section)`
   position: relative;
-  max-width: 700px;
+  max-width: 800px;
 `;
 const StyledTabs = styled.div`
   display: flex;
@@ -195,7 +195,7 @@ const Jobs = ({ data }) => {
 
   return (
     <StyledContainer id="jobs" ref={revealContainer}>
-      <Heading>Where I&apos;ve Worked</Heading>
+      <Heading>My Journey</Heading>
       <StyledTabs>
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyPressed(e)}>
           {data &&

@@ -34,7 +34,7 @@ const StyledArchiveLink = styled(Link)`
 `;
 const StyledGrid = styled.div`
   margin-top: 50px;
-  margin-left: 10%;
+  margin-left: 18%;
 
   .projects {
     display: grid;
@@ -139,16 +139,16 @@ const Projects = ({ data }) => {
     revealProjects.current.forEach((ref, i) => sr.reveal(ref, srConfig(i * 100)));
   }, []);
 
-  const GRID_LIMIT = 9;
+  const GRID_LIMIT = 3;
   const projects = data.filter(({ node }) => node);
   const firstSix = projects.slice(0, GRID_LIMIT);
   const projectsToShow = showMore ? projects : firstSix;
 
   return (
     <StyledContainer>
-      <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
+      <StyledTitle ref={revealTitle}>Noweworthy Achievements</StyledTitle>
       <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
-        View Complete List of Projects/Codes
+        List Of Awards and Achievements
       </StyledArchiveLink>
 
       <StyledGrid>

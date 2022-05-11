@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Developer | Content Freelancer',
+  siteTitle: 'Gourav Samal',
   siteDescription:
     'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
+    'Gourav Samal, Gourav, Samal, zray, developer, engineer, meta, content creator, gaming, web developer, NITR, NIT, NIT Rourkela, Rourkela',
   siteUrl: 'https://chandrikadeb7.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Chandrika Deb',
   location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
+  email: 'samalgourav2000@gmail.com',
+  github: 'https://github.com/zray007',
   twitterHandle: '@chandrikadeb7',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/zray007',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/gourav-samal/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/chandrikadeb7',
+    // },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      url: 'https://www.instagram.com/_gourav_samal_/?hl=en',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/samal_gourav',
     },
   ],
 

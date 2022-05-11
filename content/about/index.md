@@ -1,23 +1,15 @@
 ---
-title: 'About Me'
-avatar: 'me.jpg'
+title: '#define Gourav'
+avatar: 'me.jpeg'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - Kafka & Couchbase
-  - JUnit & TestNG
-  - IntelliJ Idea
-  - Golang
-  - Python
+- Python
+- Solidworks
+- ANSYS
+- AutoCAD
 ---
 
-Hello! Interestingly, I got introduced to programming in my freshman year at [Birla Institute Of Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
+My interests stems from a project that I started on a whim; to develop a laser scanner microscope from a dvd player. Then the pandemic struck the world and somehow all the dots connected and I could build a laser based [Covid testing system](https://www.hackster.io/laserx/diagnostics-via-disc-5793c0#story). Many a times interesting stuff lies infront of us, waiting for us to reveal it; we just need to know where to look for.
 
-I'm currently working as a developer for **Bell Canada** in the Amdocs Digital Delivery unit. My responsibilty includes Java/Spring based microservices development & testing. 
+I enjoy creating things that live on and off the internet, aimed at helping people all across the globe. My main focus these days is building accessible, inclusive products for the current generation to tackle new age issues which are fairly less understood. 
 
-I'm also an [Innovation Agent](https://drive.google.com/file/d/117KS9QnDrcg7dllcAzGz_b7qQPgR3pGs/view?usp=sharing) fostering the culture of creativity and innovation at Amdocs, India.
-
-I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/file/d/1PzTZkXlQV9ldZxqmBbbO94uIqrhSwvcq/view?usp=sharing), Creativity Jam, [Design Thinking Hackathon](https://drive.google.com/file/d/1hXCATvKwzHCvctHtElsqFg5YIqabz22O/view?usp=sharing) and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1exB19OoQ5dzU2mg4qbdkNutA25TGBWV3/view?usp=sharing) by Amdocs.
-
-Here is a list of the technologies that I'm familiar with!
+Here are a few technologies I’ve been working with recently:

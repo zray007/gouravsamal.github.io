@@ -9,3 +9,8 @@ package-lock.json
 .DS_Store
 
 .vscode/
+content/about/ups-shot.jpg
+.gitignore
+content/about/me.jpeg
+content/about/me.jpg
+content/about/ups-shot.jpg
