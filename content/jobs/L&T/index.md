@@ -2,7 +2,7 @@
 date: '2021-08-16'
 title: 'Welding Engineer'
 company: 'L&T Energy: Hydrocarbon'
-range: 'August 2020 - March 2022'
+range: 'August 2021- March 2022'
 url: 'https://www.lnthydrocarbon.com/'
 ---
 

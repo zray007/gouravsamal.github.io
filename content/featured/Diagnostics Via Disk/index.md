@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Diagnostics Via Disk'
-cover: 'img1.png'
+cover: '/img1.png'
 github: 'https://github.com/zray007/Diagnostics-via-Disk'
 external: 'https://www.hackster.io/laserx/diagnostics-via-disc-5793c0#story'
 tech:

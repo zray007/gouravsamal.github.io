@@ -1,11 +1,13 @@
 ---
 date: '3'
-title: 'AI based Laser Scanner Microscope'
+title: 'Confocal Laser Scanner Microscope'
 cover: 'Laser scanner.png'
-github: 'https://github.com/zray007/AI_Microscopy_via_DVD'
+github: 'https://github.com/zray007/OpenLaserScanningMicroscope'
 external: 'https://github.com/zray007/AI_Microscopy_via_DVD'
 tech:
   - Python
+  - Processing
+  - C/C++
 showInProjects: true
 ---
 

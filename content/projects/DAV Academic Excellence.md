@@ -1,6 +1,6 @@
 ---
 date: '2017-06-21'
-title: 'Academic Excellence Awardss'
+title: 'Academic Excellence Awards'
 github: ''
 external: ''
 tech:
